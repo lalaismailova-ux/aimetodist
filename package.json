@@ -1,0 +1,7 @@
+{
+  "name": "ii-metodist-lala-ai",
+  "version": "0.3.0",
+  "private": true,
+  "type": "module",
+  "description": "Сайт ИИ-Методист с Лалой и Vercel API для OpenAI"
+}
